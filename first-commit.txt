@@ -1,3 +1,1 @@
 Zmiana zawartosci pliku first-commit.txt
-
-wprowadzono nowe zmiany
